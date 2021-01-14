@@ -8,3 +8,4 @@ un blog increible para el curso de Git y Github de Platzi
  ## hola cambio
 
  - incluye ejemplos en windows y linux
+ - disponible para todos
